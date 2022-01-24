@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidERestaurant1</string>
+    <string name="button">Button</string>
+    <string name="la_bonne_free_eat">La Bonne Free eat</string>
+    <string name="menu">Menu</string>
+    <string name="vitalie">Vitalie</string>
+</resources>
