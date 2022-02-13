@@ -4,4 +4,14 @@
     <string name="la_bonne_free_eat">La Bonne Free eat</string>
     <string name="menu">Menu</string>
     <string name="vitalie">Vitalie</string>
+    <string name="reserver">RESERVER</string>
+    <string name="home_title">Vitalie</string>
+    <string name="home_starters">Entrées</string>
+    <string name="home_dishes">Plats</string>
+    <string name="home_desserts">Desserts</string>
+    <string name="detailTitle">rest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="child_menu">Menu enfant</string>
+    <string name="backHome">retour</string>
 </resources>

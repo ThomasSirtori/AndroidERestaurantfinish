@@ -3,7 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/thomas.sirtori/doc/app/src/main/res/layout/activity_child_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/thomas.sirtori/doc/app/src/main/res/layout/activity_connection.xml" value="0.4" />
+        <entry key="..\:/Users/thomas.sirtori/doc/app/src/main/res/layout/activity_detail.xml" value="0.264" />
+        <entry key="..\:/Users/thomas.sirtori/doc/app/src/main/res/layout/activity_dishes.xml" value="0.152" />
+        <entry key="..\:/Users/thomas.sirtori/doc/app/src/main/res/layout/activity_home.xml" value="0.23369565217391305" />
         <entry key="..\:/Users/thomas.sirtori/doc/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/thomas.sirtori/doc/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Users/thomas.sirtori/doc/app/src/main/res/layout/card_view_design.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/thomas.sirtori/doc/app/src/main/res/layout/category_cell.xml" value="0.144" />
+        <entry key="..\:/Users/thomas.sirtori/doc/app/src/main/res/layout/fragment_blank.xml" value="0.1" />
+        <entry key="..\:/Users/thomas.sirtori/doc/app/src/main/res/layout/fragment_dishes_picture.xml" value="0.31791530944625407" />
+        <entry key="..\:/Users/thomas.sirtori/doc/app/src/main/res/layout/login_fragment.xml" value="0.12335359675785208" />
       </map>
     </option>
   </component>
